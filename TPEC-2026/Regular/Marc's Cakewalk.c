@@ -82,3 +82,11 @@ int main()
 
     return 0;
 }
+
+
+
+
+// INPUT
+// 3
+// 1 3 2
+//output == 11
